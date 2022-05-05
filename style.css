@@ -1,0 +1,38 @@
+#aboutme iframe
+{
+    width: 100%;
+}
+
+.travel1{
+border: 1px solid red;
+
+}
+
+.travel1 img{
+width: 100%;
+
+}
+
+.travel1 h5 , .travel1 p{
+    margin-left: 20px;
+}
+
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head i{
+    float: right;
+}
+
+.movie_text span{
+    color: gold;
+}
+
+.book{
+    margin-bottom: 20px;
+}
+
